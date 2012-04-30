@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>YOUR_PROJECT_NAME</string>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Can&apos;t find the application you're looking for?
+			
+Visit http://www.sdk.co.nz for instructions on how to get us to build it for you!
+
+You can also request features and report bugs in our forums, we listen to everybody and try to build a solution that will fit all those needs. This is a minor update, we've got a major update in the pipeline for you, containing most if not all of the features requested on our website.
+
+If you would like to beta test Time Tracker let us know via email so we can add you to the beta testers list. This will help you get your hands on the new features earlier and it will help us find the bugs before we go to the App Store.
+
+We hope you enjoy Time Tracker, let us know what you think of it!</string>
+		</dict>
+	</array>
+</dict>
+</plist>
